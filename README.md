@@ -1,4 +1,4 @@
-# 🚀 AI Study Suite v2.0
+# 🚀 ZinAI
 
 A comprehensive Streamlit application combining study tools, budget tracking, and CV building—all in one place.
 
@@ -219,3 +219,4 @@ This project is designed for educational purposes and can be used in:
 ---
 
 **Happy studying! 📚 Good luck managing your finances! 💰 Build amazing CVs! 📄**
+
