@@ -4,7 +4,12 @@
 
 **Status**: Production Ready  
 **Version**: 2.0 Advanced Edition  
-**Last Updated**: November 27, 2025
+
+#Alignment with SDG Goals
+
+##SDG 4: Quality Education – By offering AI-powered study tools, it supports inclusive and equitable quality education, making learning resources accessible to more people.
+
+##SDG 1 & 10: No Poverty & Reduced Inequalities – The Budget Tracker promotes financial literacy and responsible money management, helping users make informed decisions to improve financial stability.
 
 ---
 

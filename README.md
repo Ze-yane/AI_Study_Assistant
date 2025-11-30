@@ -8,7 +8,6 @@ A comprehensive Streamlit application combining study tools, budget tracking, an
 - **Flashcard Generation**: Create fill-in-the-blank flashcards from any text
 - **Quiz Generator**: Generate multiple-choice quizzes with instant feedback
 - **File Upload**: Support for PDF and TXT file uploads
-- **Session Management**: Save and review study sessions
 - **AI Integration**: Optional OpenAI integration for smarter question generation
 
 ### 💰 Budget Tracker
@@ -182,7 +181,6 @@ streamlit run app.py --server.port 8502
 - PDF and DOCX export for CV Builder
 - Enhanced UI with professional styling
 - Charts and data visualization
-- Session management
 
 **v1.0 - Initial Release**
 - Basic flashcard and quiz generation
@@ -217,6 +215,9 @@ This project is designed for educational purposes and can be used in:
 - Learning Streamlit development
 
 ---
+
+[Check out the live page]([Check out the live app](https://zinai-studysuite.streamlit.app/)
+)
 
 **Happy studying! 📚 Good luck managing your finances! 💰 Build amazing CVs! 📄**
 
