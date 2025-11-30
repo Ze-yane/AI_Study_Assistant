@@ -216,7 +216,7 @@ This project is designed for educational purposes and can be used in:
 
 ---
 
-[Check out the live page]([Check out the live app](https://zinai-studysuite.streamlit.app/)
+([Check out the live app](https://zinai-studysuite.streamlit.app/)
 )
 
 **Happy studying! 📚 Good luck managing your finances! 💰 Build amazing CVs! 📄**
