@@ -214,3 +214,4 @@ This project is designed for educational purposes and can be used in:
 **Happy studying! 📚 Good luck managing your finances! 💰 Build amazing CVs! 📄**
 
 
+
