@@ -124,14 +124,6 @@ date,category,amount,note
 
 ## 🔧 Advanced Configuration
 
-### Enable AI Features
-To use OpenAI integration for smarter flashcard generation:
-
-1. Get an OpenAI API key from https://platform.openai.com/api-keys
-2. In the app, go to Settings → AI / API Settings
-3. Enter your API key
-4. Enable "Use AI" when generating flashcards
-
 ### Database Management
 The budget data is stored in `budget.db` (SQLite). To reset:
 ```bash
@@ -220,4 +212,5 @@ This project is designed for educational purposes and can be used in:
 )
 
 **Happy studying! 📚 Good luck managing your finances! 💰 Build amazing CVs! 📄**
+
 
